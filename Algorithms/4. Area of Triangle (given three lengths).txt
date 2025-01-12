@@ -1,0 +1,6 @@
+Step 1. Start
+Step 2. Input Three numbers a, b, c
+Step 3. Calculate S = (a+b+c)/2
+step 4. Area area = sqrt(s(s-a) (s-b) (s-c))
+step 5. Show result
+step 6. End

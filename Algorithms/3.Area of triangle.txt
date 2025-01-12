@@ -1,5 +1,5 @@
 1. start
 2. input base and height
-3. calculate 1/2 * base * height
+3. area = 1/2 * base * height
 4. show result
 5. end
