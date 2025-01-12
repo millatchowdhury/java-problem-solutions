@@ -1,0 +1,5 @@
+1. Start
+2. input two number that length, width
+3. calculate area = length*width
+4. show result
+5. end
