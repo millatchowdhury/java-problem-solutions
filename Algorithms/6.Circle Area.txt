@@ -1,0 +1,5 @@
+1. start
+2. input radius value
+3. calculate area = 3.1416*r*r (PI r^2)
+4. show result 
+5. end
