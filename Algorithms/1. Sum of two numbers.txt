@@ -1,0 +1,12 @@
+Problem : Sum of Two Numbers.
+Step 1. 
+	Start
+Step 2.
+	Input Two Numbers
+Step 3.
+	Sum of Two Numbers (Processing)
+Step 4.
+	Show Result
+Step 5.
+	End
+	
