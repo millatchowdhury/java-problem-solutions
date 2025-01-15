@@ -1,0 +1,6 @@
+1. Start
+2. Input Number num
+3. Is num%2=0
+	i) Yes , print Even Number
+	ii) No, print Odd Number
+4. End

@@ -1,0 +1,9 @@
+1. start
+2. input number
+3. check number > 0
+	i) Yes, print Possitive Number
+	ii) No, go to next step
+4. check number < 0
+	i) Yes, print Negative Number
+	ii) No, Print Zero
+5. end

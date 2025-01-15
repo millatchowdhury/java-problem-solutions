@@ -1,0 +1,9 @@
+1. Start
+2. Input Two Numbers num1, num2
+3. Is num1 > num2
+	i) Yes, Print num1
+	ii) No, Go to next Step
+4. Is num1 < num2
+	i) Yes, print num2
+	ii) No, Equal
+5. End

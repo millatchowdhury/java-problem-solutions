@@ -1,0 +1,9 @@
+1. Start
+2. input leap year number
+3. Is number % 400 == 0
+	i) Yes, This is leap year
+	ii) No, Go to next step
+   Is number % 400 == 0 && number % 100 != 0
+    i) Yes, This is leap year
+	ii) No, This is not leap year
+4. End
