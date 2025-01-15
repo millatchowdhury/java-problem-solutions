@@ -1,0 +1,10 @@
+1. Start
+2. Input letter
+3. Is letter >= A || letter <= Z
+   i) Yes, This is capital letter
+   ii) No, go to next step
+   Is letter >= a || letter <= z
+   i) Yes, This is small letter
+   ii) No, This is not a number
+4. End
+

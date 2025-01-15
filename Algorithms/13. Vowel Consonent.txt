@@ -1,0 +1,7 @@
+1. Start
+2. input letter
+3. 	Is letter == 'a' || letter == 'e' || 
+	letter == 'i' || letter == 'o' || letter == 'u'
+	i) Yes, This is vowel
+	ii) No, This is Consonent
+4. end
