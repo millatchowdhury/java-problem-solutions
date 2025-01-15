@@ -1,0 +1,7 @@
+1. start
+2. input multiplication number 
+3. int result
+4. for(i=1, i<=number; i++)
+5. result = number * i
+6. print result 
+7. end
