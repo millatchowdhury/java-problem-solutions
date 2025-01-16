@@ -1,0 +1,14 @@
+1. Start
+2. input number for prime check
+3. int i, count 0
+4. for i = 2, i<number
+5. Is number/i == 0
+	i) Yes, Print Not a prime number
+		count++;
+		break;
+	ii) No, Go to next Step
+6. i++
+7. Is count == 0
+	i) Yes, Print Prime Number
+	ii) No, Go to next Step
+8. End
