@@ -1,0 +1,8 @@
+1. Start
+2. input n
+3. i = 1, fact = 1;
+4. for i<=n
+	go to step 5
+5. print fact = fact * i
+6. i++
+7. End
